@@ -96,4 +96,3 @@ If you find bugs or errors, it’s normal since this is a beginner project :v.
 
 Free to use, modify, and share 👍
 
-# SiPerpus
